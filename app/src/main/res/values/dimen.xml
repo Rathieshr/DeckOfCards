@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="SP_TextRegular_Size">15</dimen>
+    <dimen name="SP_TextRegularHeader_Size">17</dimen>
+</resources>
